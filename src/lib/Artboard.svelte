@@ -1,0 +1,3 @@
+<script lang="ts"></script>
+
+<div class="artboard phone-5">414×896</div>
